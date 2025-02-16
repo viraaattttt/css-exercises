@@ -2,7 +2,7 @@
     font-family: "Verdana","DejaVu Sans", sans-serif;
     background-color: #f08080;
 }
-.odd.bigger {
+.bigger {
     font-size: 24px;
 }
 #two {
@@ -11,6 +11,5 @@
 }
 #four{
     background-color:#98fb98;
-    font-size: 24px;
     font-weight: bold;
 }
